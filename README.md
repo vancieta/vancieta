@@ -1,4 +1,13 @@
+<h1 align="center">Hi 👋, I'm Valentina Ancieta</h1>
+<h3 align="center">A passionate Career Advisor working at 4Geeks Academy</h3>
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=Mc9Ps3Ma054" target="_blank">
- <img src="http://img.youtube.com/vi/Mc9Ps3Ma054/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
-</a>
+- 💬 Ask me about **how to land a job in tech**
+
+- 📫 How to reach me **valentinaancieta@gmail.com**
+
+- ⚡ Fun fact **baking and playing squash**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/valentinaancieta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="valentinaancieta" height="30" width="40" /></a>
+</p>
