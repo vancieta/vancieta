@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **valentinaancieta@gmail.com**
 
-- ⚡ Fun fact **baking and playing squash**
+- ⚡ Fun fact **I love baking and playing squash**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
