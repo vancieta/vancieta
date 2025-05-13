@@ -4,7 +4,7 @@
 - 💬 Ask me about **how to land a job in tech**
 - 💡Currently learning **Full Stack Development**
 
-- 📫 How to reach me **valentinaancieta@gmail.com**
+- 📫 How to reach me **vancieta@4geeksacademy.com**
 
 - ⚡ Fun fact **I love baking and playing squash**
 
