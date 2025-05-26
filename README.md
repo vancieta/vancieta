@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Career Advisor working at 4Geeks Academy</h3>
 
 - 💬 Ask me about **how to land a job in tech**
-- 💡Currently learning **Full Stack Development**
 
 - 📫 How to reach me **vancieta@4geeksacademy.com**
 
